@@ -1,0 +1,555 @@
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62953
+Source Port: 443 --> Destination Port: 62953
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62952
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62952
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62953
+
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+
+Source Port: 443 --> Destination Port: 62953
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62952
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62952
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62952
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62952 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62952 --> Destination Port: 443
+Source Port: 443 --> Destination Port: 62952
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62952 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62952 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 62952 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62952 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62952
+Source Port: 443 --> Destination Port: 62952
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 192.168.16.1
+Source IP: 192.168.16.101 --> Destination IP: 192.168.16.1
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 8.8.8.8
+Source IP: 192.168.16.101 --> Destination IP: 8.8.8.8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.103 --> Destination IP: 239.255.255.250
+Source IP: 192.168.16.103 --> Destination IP: 239.255.255.250
+Source MAC: 3e:0f:10:46:8d:3f --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 3e:0f:10:46:8d:3f --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.103 --> Destination IP: 239.255.255.250
+Source IP: 192.168.16.103 --> Destination IP: 239.255.255.250
+Source MAC: 3e:0f:10:46:8d:3f --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 3e:0f:10:46:8d:3f --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.103 --> Destination IP: 239.255.255.250
+Source IP: 192.168.16.103 --> Destination IP: 239.255.255.250
+Source MAC: 3e:0f:10:46:8d:3f --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 3e:0f:10:46:8d:3f --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.1 --> Destination IP: 192.168.16.101
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 192.168.16.1 --> Destination IP: 192.168.16.101
+
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+
+Source Port: 62955 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 8.8.8.8 --> Destination IP: 192.168.16.101
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source IP: 8.8.8.8 --> Destination IP: 192.168.16.101
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source IP: 20.189.173.3 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62954
+Source Port: 443 --> Destination Port: 62954
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source IP: 192.168.16.101 --> Destination IP: 20.189.173.3
+Source Port: 62954 --> Destination Port: 443
+Source Port: 62954 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62955 --> Destination Port: 443
+
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62953
+Source Port: 443 --> Destination Port: 62953
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62953 --> Destination Port: 443
+
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62953 --> Destination Port: 443
+
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62953 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62953 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source Port: 62953 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 52.182.143.209
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62953 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source IP: 52.182.143.209 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62953
+Source Port: 443 --> Destination Port: 62953
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source Port: 62955 --> Destination Port: 443
+Source IP: 192.168.16.101 --> Destination IP: 40.79.170.242
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source Port: 62955 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 157.240.242.14
+Source IP: 192.168.16.101 --> Destination IP: 157.240.242.14
+Source Port: 62806 --> Destination Port: 443
+Source Port: 62806 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source IP: 40.79.170.242 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62955
+Source Port: 443 --> Destination Port: 62955
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 157.240.242.14 --> Destination IP: 192.168.16.101
+Source IP: 157.240.242.14 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62806
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 443 --> Destination Port: 62806
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 157.240.242.14 --> Destination IP: 192.168.16.101
+Source Port: 443 --> Destination Port: 62806
+Source IP: 157.240.242.14 --> Destination IP: 192.168.16.101
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+Source Port: 443 --> Destination Port: 62806
+Source MAC: 14:6b:9c:c3:51:e8 --> Destination MAC: dc:41:a9:fb:e9:fb
+
+
+Source IP: 192.168.16.101 --> Destination IP: 157.240.242.14
+Source IP: 192.168.16.101 --> Destination IP: 157.240.242.14
+Source Port: 62806 --> Destination Port: 443
+Source Port: 62806 --> Destination Port: 443
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+Source MAC: dc:41:a9:fb:e9:fb --> Destination MAC: 14:6b:9c:c3:51:e8
+
+
+
